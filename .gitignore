@@ -12,4 +12,7 @@ __pycache__/
 .vscode/
 
 # Файлы ОС
-.DS_Store 
+.DS_Store
+
+# Директория с логами
+/logs/ 
